@@ -1,0 +1,16 @@
+Sydney,au
+Perth,au
+Russell,au
+Melbourne,au
+Hyderabad,in
+New york,us
+New delhi,in
+Adelaide,au
+Brisbane,au
+Bangalore,in
+Pahrump,us
+Mumbai,in
+Kolkata,in
+Manadon,gb
+Hicksville,us
+abcde,abcde
